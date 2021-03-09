@@ -3,6 +3,6 @@
   "description": "Shows overwatch statistics tab on the user profile.",
   "author": "natte",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "permissions": "ext_api"
 }
