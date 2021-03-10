@@ -7,8 +7,6 @@ const { get } = require('powercord/http')
 
 const Profile = require('./components/Profile')
 
-// hek smrdi nevim pica
-
 module.exports = class OverwatchProfile extends Plugin {
     constructor () {
         super()
